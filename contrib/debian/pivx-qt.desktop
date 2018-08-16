@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=RDCT
+Comment=RDCT P2P Cryptocurrency
+Comment[fr]=RDCT, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=RDCT, eşten eşe kriptografik sanal para birimi
+Exec=rdct-qt %u
+Terminal=false
+Type=Application
+Icon=rdct128
+MimeType=x-scheme-handler/rdct;
+Categories=Office;Finance;
